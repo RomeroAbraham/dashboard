@@ -1,6 +1,6 @@
 import Alert, {type AlertColor} from '@mui/material/Alert';
 
-type AlertVariant ='standar'|'outlined'|'filled'
+type AlertVariant ='standard'|'outlined'|'filled'
 
 interface AlertConfig{
     description: string;
